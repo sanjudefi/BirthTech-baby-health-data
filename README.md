@@ -1,4 +1,4 @@
-# Heamac-baby-health-data
+# birthtech-baby-health-data
 Secure Baby Health is a cutting-edge system that ensures the secure and confidential management of premature babies' hemoglobin level data between hospitals. 
 
 Certainly! Here's an example README for the "Secure Baby Health" program:
